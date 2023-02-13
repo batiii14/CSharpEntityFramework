@@ -2,9 +2,12 @@ It's a basic simulation project for E-Trade.
 
 We simulate 
 
--Retrieving(Listing)
+-Retrieving(Listing Product)
+
 -Adding Product
+
 -Deleting Product
+
 -Updating Product
 
 data from database.
