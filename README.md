@@ -1,6 +1,6 @@
-It's a basic simulation project for E-Trade.
+It's a basic simulation project related E-Trade.
 
-We simulate 
+We simulate, 
 
 -Retrieving(Listing Product)
 
@@ -22,4 +22,4 @@ Get By Unit Price Button:
 Returns only the products that in the range of given minimum and maximum value.
 
 Search:
-Returns the products which is contain the letter given.
+Returns the products which is contain the letter/letters given.
